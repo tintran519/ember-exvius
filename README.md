@@ -1,50 +1,17 @@
-# ember-exvius
+# EXVIUS-DB
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application is intended to provide users with information pertaining to the mobile RPG game Final Fantasy Exvius.
 
-## Prerequisites
+Features of the app include:
 
-You will need the following things properly installed on your computer.
+* Character info such as stats, evolution materials, limit bursts, etc.
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with NPM)
-* [Ember CLI](https://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+* A full list of equipments and items 
 
-## Installation
+* Selecting a character and testing equipment/ability options 
 
-* `git clone <repository-url>` this repository
-* `cd ember-exvius`
-* `npm install`
+* Creating a team and gathering overall stats
 
-## Running / Development
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
 
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
